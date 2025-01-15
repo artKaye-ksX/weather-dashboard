@@ -1,5 +1,5 @@
 // Fetch weather data using OpenWeatherMap API
-const apiKey = "c188c70bb7aeff7fc3fedc7be597c809"; // The API key received from OpenWeatherMap
+const apiKey = "enter-your-api-key"; // The API key received from OpenWeatherMap
 const searchButton = document.getElementById("search-button");
 const cityInput = document.getElementById("city-input");
 const errorMessage = document.getElementById("error-message");
