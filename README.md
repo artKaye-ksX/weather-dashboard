@@ -1,3 +1,3 @@
-# Weather-dashboard-webapp
+# Weather-dashboard-app
 
-A weather dashboard app using "OpenWeatherMap API" for a school project. 
+A weather dashboard webapp using "OpenWeatherMap API" for a school project. 
